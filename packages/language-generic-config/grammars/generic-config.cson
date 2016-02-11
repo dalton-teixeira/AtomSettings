@@ -1,0 +1,5 @@
+'scopeName' : 'source.untitled'
+'fileTypes' : ['txt']
+'patterns' : [
+   'name' : 'string.quoted.single.sql'
+   'match' : '\\[(.*)\\]|- |\\*\\*'  ]

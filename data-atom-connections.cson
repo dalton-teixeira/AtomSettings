@@ -1,0 +1,12 @@
+[
+  {
+    name: "ACPM-QA"
+    protocol: "sqlserver"
+    user: "acpm-dev-staging"
+    password: "Acpm4success"
+    server: "acpm-staging.avenuecode.com"
+    database: "ACPM-QA"
+    options: ""
+    port: ""
+  }
+]
